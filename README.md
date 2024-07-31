@@ -18,3 +18,8 @@ by Oscar year. The aim is to uncover insights and patterns in the entertainment 
 1. **data/**: Raw and cleaned datasets used for analysis.
 2. **powerbi/**: Power BI files (.pbix) containing the dashboards and reports.
 3. **reports/**: Detailed reports summarizing the findings and insights.
+
+## Acknowledgements
+
+- Data sources providing the entertainment industry data.
+- Open-source community for the tools and libraries used in this project.
